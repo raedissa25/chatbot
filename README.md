@@ -18,9 +18,9 @@ Ce chatbot a été développé dans le cadre de mon Projet de Fin d'Études pour
 
 app.py : Script principal de l’application Streamlit
 
-CNN1D MODEL.h5 : Modèle CNN 1D entraîné pour la classification de signaux ECG 2 leads
+CNN1D model.h5 : Modèle CNN 1D entraîné pour la classification de signaux ECG 2 leads
 
-.env : À créer manuellement. Ce fichier doit être placé dans le même dossier que app.py et CNN 1D MODEL.h5, et doit contenir votre clé API Gemini :
+.env : À créer manuellement. Ce fichier doit être placé dans le même dossier que app.py et CNN 1D model.h5, et doit contenir votre clé API Gemini :
 
 GEMINI_API_KEY="ton api GEMINI"
 
